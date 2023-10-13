@@ -1,0 +1,16 @@
+.pagebody{
+    width: 800px;
+    height: 800px;
+    background-color: beige;
+    padding: 100px;
+
+}
+.heading{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.buttons{
+    width: 40px;
+    height: 20px;
+}
